@@ -94,7 +94,7 @@ export default function Tentang() {
       </motion.section>
 
       <motion.section {...sections.team} className="max-w-6xl mx-auto mt-20 mb-20">
-        <h2 className="text-3xl font-bold text-black text-center mb-10 drop-shadow">Tim Kami</h2>
+        <h2 className="text-3xl font-bold text-black text-center mb-10 drop-shadow">Our Team</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-8">
           {teamMembers.map((member, index) => (
             <motion.div
