@@ -58,7 +58,7 @@ export default function Hero() {
         </div>
         <div className="relative z-10 flex flex-col justify-center items-center text-center min-h-screen text-white px-4">
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-4">
-            Selamat Datang di PT Kaya Indo
+            PT Kaya Indo
           </h1>
           <p className="text-lg md:text-xl max-w-xl">
             Solusi konstruksi modern dan berkelas untuk masa depan Indonesia.
